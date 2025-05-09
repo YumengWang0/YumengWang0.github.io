@@ -1,8 +1,21 @@
 ---
-title: "Imperial Maths Competition"
-permalink: /imperial_maths_competition/
+title: "Talks and Presentation"
+permalink: /Talks_Presentation/
 author_profile: true
 ---
 
-I am a co-founder of the [Imperial Maths Competition](https://icmathscomp.org/index.html) (IMC). This is a student-led Maths challenge co-hosted by the [Imperial College MathSoc](https://www.union.ic.ac.uk/rcsu/mathsoc/about19-20) and Maths societies in many other UK universities. Founded in Autumn 2017, IMC aims to provide a platform for all UK undergraduates/Master's students with an opportunity to enjoy Olympiad-like Mathematics. The 2019-2020 Round One has finished and the solution is available [here](https://icmathscomp.org/round-one-solutions.html). For more information about this competition, please visit our [website](https://icmathscomp.org/index.html).
+## Talks and Presentation
+
+- **Poster Presentation**: *Parametric reduced order modeling for nonlocal PDEs*, Brown University, Providence, RI, **01/2025**
+
+- **Mini-symposium Talk**: *Parametric reduced order modeling for nonlocal PDEs*, University of Missouri-Kansas City, Kansas City, MO, **10/2024**
+
+- **Poster Presentation**: *Advancing catalyst design through generative modeling and machine learning*, Lawrence Berkeley National Laboratory, Berkeley, CA, **08/2024**
+
+- **Contributed Talk**: *Learning temporal evolution of parameterized PDEs with convolutional neural networks*, University of Nebraska-Lincoln, Lincoln, NE, **10/2023**
+
+- **Seminar Talk**: *Data-driven modeling with generative adversarial networks*, Graduate Seminar, Missouri University of Science and Technology, Rolla, MO, **04/2023**
+
+- **Poster Presentation**: *Data-driven modeling with generative adversarial networks*, Pi Day, Missouri University of Science and Technology, Rolla, MO, **03/2023**
+
 

@@ -64,13 +64,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xing Liu"
-  avatar           : "profile_nanjing.png"
-  bio              : "PhD student of Statistics at Imperial College London"
-  location         : "London, UK"
+  name             : "Yumeng Wang"
+  avatar           : "YumengWang.jpg"
+  bio              : "PhD student of Computational and Applied Mathematics at Missouri University of Science and Technology"
+  location         : "MO, USA"
   employer         :
   pubmed           : #
-  googlescholar    : "https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
   # email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -80,23 +80,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XingLLiu"
+  github           : "YumengWang0"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xingliu97/"
+  linkedin         : "https://www.linkedin.com/in/yumeng-wang-3990a1234/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@xingliu97"
   vine             :
   weibo            :
-  xing             :
+
   youtube          :
   wikipedia        :
 
