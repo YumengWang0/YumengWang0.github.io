@@ -68,6 +68,8 @@ author:
   avatar           : "YumengWang.jpg"
   bio              : "PhD student of Computational and Applied Mathematics at Missouri University of Science and Technology"
   location         : "MO, USA"
+  timezone         : America/Chicago
+  email            : "yw2bc@mst.edu"
   employer         :
   pubmed           : #
   googlescholar    : #"https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
