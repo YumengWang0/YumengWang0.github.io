@@ -8,20 +8,23 @@ redirect_from:
   - /main.html
 ---
 
-Hi there! My name is Yumeng (pronunciation similar to "Yoomung"). I am currently a fifth-year PhD student in Computational and Applied Mathematics at Missouri University of Science and Technology (MST). I joined the department of [Mathematics and Statistic](https://math.mst.edu/) in 2021, where I have been advised by Professor [Yanzhi Zhang](https://web.mst.edu/~zhangyanz/).
+Hi there! My name is Yumeng (pronunciation similar to "Yoomung"). I am currently a fifth-year PhD student in Computational and Applied Mathematics the department of [Mathematics and Statistic](https://math.mst.edu/) at Missouri University of Science and Technology (MST), where I have been advised by Professor [Yanzhi Zhang](https://web.mst.edu/~zhangyanz/).
 
-My research focuses on **Artificial Intelligence for Partial Differential Equations (AI4PDE)**. I am particularly interested in leveraging deep learning techniques—including convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative models, and transformer-based architectures—for modeling complex spatiotemporal data governed by PDEs.
+My research focuses on **Artificial Intelligence for Partial Differential Equations (AI4PDE)**. I am particularly interested in leveraging deep learning techniques—including convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative models, and transformer-based architectures—for modeling complex spatiot-emporal data governed by PDEs.
 
 My work addresses challenges where traditional numerical methods struggle, with emphasis on:
-- Understanding and forecasting PDE dynamics.  
-- Developing neural network-based **reduced-order models (ROMs)**.
+- Understanding and forecasting PDE dynamics  
+- Developing neural network-based **reduced-order models (ROMs)**
 - Learning mappings in infinite-dimensional function spaces through **neural operator learning**.
-- Learning mappings in the reduced spaces through  **neural operator learning**. 
+- **Neural operator learning** in reduced space
+- Foundation Models 
+- Physics-informed neural network in PDEs 
+- Generative modeling
 
 ## Education 
-:mortar_board: PhD in Computational and Applied Mathematics, 2021.08-2026.05(Expected), <span class="grey">Missouri University of Science and Technology</span> \
-:mortar_board: MSc in Management Science and Engineering, 2016.09-2019.03, <span class="grey">Tongji University</span> \
-:mortar_board: BSc in Management Engineering, 2011.09-2015.07, <span class="grey">Beijing University of Science and Technology</span>\
+:mortar_board: PhD in Computational and Applied Mathematics, 2021.08-2026.05(Expected),  <span class="grey">Missouri University of Science and Technology</span> \
+:mortar_board: MSc in Management Science and Engineering, 2016.09-2019.03,  <span class="grey">Tongji University</span> \
+:mortar_board: BSc in Management Engineering, 2011.09-2015.07,  <span class="grey">Beijing University of Science and Technology</span> \
 
 ## Teaching
 I am/was a Graduate Teaching Assistant for the following courses:
