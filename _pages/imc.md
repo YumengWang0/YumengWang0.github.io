@@ -1,6 +1,6 @@
 ---
 title: "Talks and Presentation"
-permalink: /Talks_Presentation/
+permalink: /imc/
 author_profile: true
 ---
 
