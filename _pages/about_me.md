@@ -43,7 +43,7 @@ I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.ed
 - Developed time-series prediction models for the loans application 
 - Improved risk control & decision efficiency  
 
-#### **Business Data Analyst Intern — DiDi, Beijing** 
+#### **Business Data Analyst Intern — [DiDi](https://web.didiglobal.com/) ** 
 <span style="float:right;">*Beijing, China*, *04/2018 – 08/2018*</span>
 - Conducted product & market analytics for the express business 
 - Visualize the business via Tableau
@@ -56,10 +56,10 @@ I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.ed
   Recognized for outstanding research contributions in the Department of Mathematics and Statistics, Missouri S&T.
 
 - **Graduate Student Travel Funds**
-Graduate Student Travel Fund, CASE Professional Development Fund, and S&T Business Intelligence Travel Fund
+  Graduate Student Travel Fund, CASE Professional Development Fund, and S&T Business Intelligence Travel Fund
 
 - **Gaoxiong Gan Scholarship**
-Missouri University of Science and Technology, 2022
+  Missouri University of Science and Technology, 2022
 
 ---
 
