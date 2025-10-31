@@ -23,28 +23,29 @@ I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.ed
 
 ## **Industry Experience**
 
-#### **Computational Intern — [Lawrence Berkeley National Laboratory](https://www.lbl.gov/)** *Berkeley, CA*  
-<span style="float:right;">06/2024 – 08/2024</span>
+#### **Computational Intern — [Lawrence Berkeley National Laboratory](https://www.lbl.gov/)** 
+*Berkeley, CA* •*Jun 2024 – Aug 2024*
 - Feature generation of the molecule
 - Develop generative models (GAN, VAE) for 3D catalyst design, with the goal of accelerating molecule discovery through deep learning and data-driven simulation 
 
 
-#### **Strategy Analyst — [Surfin](https://www.surfin-cn.com/)** *Beijing, China*  
-<span style="float:right;">03/2020 – 04/2021</span>
+#### **Strategy Analyst — [Surfin](https://www.surfin-cn.com/)** 
+*Beijing, China* • *Mar 2020 – Apr 2021*
+
 - Developed overseas credit-risk strategies 
 - Reduced loan default rate via data analysis 
 - Explored data to generate meaning features for building model  
 - Collaborate with the other department for data analysis 
 
-#### **Data Scientist — [Fantaike](http://www.fantaike.ai/)** *Beijing, China*  
-<span style="float:right;">03/2019 – 03/2020</span>
+#### **Data Scientist — [Fantaike](http://www.fantaike.ai/)** 
+*Beijing, China* • *Feb 2020 – Mar 2020*
 - Built application score card models for auto-loan approvals  
 - Designed customer-churn warning model for the commercial bank 
 - Developed time-series prediction models for the loans application 
 - Improved risk control & decision efficiency  
 
 #### **Business Data Analyst Intern — DiDi, Beijing** *Beijing, China*  
-<span style="float:right;">04/2018 – 08/2018</span>
+*Beijing, China* • *Apr 2018 – Sep 2018*
 - Conducted product & market analytics for the express business 
 - Visualize the business via Tableau
 - Supported rollout of a new service and collaborate with product manager  
