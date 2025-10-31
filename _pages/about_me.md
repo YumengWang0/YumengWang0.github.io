@@ -3,17 +3,45 @@ title: "About Me"
 permalink: /about_me/
 author_profile: true
 ---
+
 [Short CV](http://YumengWang0.github.io/files/YumengWang.pdf)
 
+---
 
-## Bio
-I am an incoming fifth-year PhD student in department of [Mathematics and Statistics](https://math.mst.edu/) at Missouri University of Science and Technology. 
+## **Bio**
+I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/) in the [Department of Mathematics and Statistics](https://math.mst.edu/) at **Missouri University of Science and Technology**, with a strong background in **applied mathematics, scientific computing, and artificial intelligence**.
 
-Before commencing my PhD, I completed my master in [Management Science and Technology](https://sem.tongji.edu.cn/semen/programs/postgraduate) at [Tongji university](https://www.tongji.edu.cn/eng/), where my focus was on Data Science. Prior to this, I received my Bachelor degree in [Engineering Management](https://english.bucea.edu.cn/) from [Beijing University of Science and Technology](https://english.bucea.edu.cn/About/Overview/index.htm) in 2015.
+---
 
-I have full-time work experience in the financial industry as a data scientist. At [Finsight]([Fantaike](http://www.fantaike.ai/)), I mainly developed an application scorecard to support auto-loan approvals for car financing, customer loss warning and time series prediction model. At [Surfin](https://www.surfin-cn.com/), I design financial strategies to reduce default rates for overseas loans.
+## **Education**
+:mortar_board: PhD in Computational and Applied Mathematics, 2021-2026, <span class="grey">Missouri University of Science and Technology</span> \
+:mortar_board: MSc in Management Science and Technology, 2016-2019, <span class="grey">Tongji University</span> \
+:mortar_board: Exchange student in Management Science and Technology, 2017-2017, <span class="grey">Emlyon Business School</span> \
+:mortar_board: BSc in Engineering Management, 2011-2015, <span class="grey">Beijing University of Science and Technology</span>
 
-In the summer of 2018, I interned as a business data analyst at [DiDi](https://web.didiglobal.com/) in Beijing, China, where I conducted data analysis and collaborate with project manager for a new type of car service.
+---
 
-Outside of work, I enjoy painting, going to the gym, and singing.
+## **Industry Experience**
 
+### **Summer Computational Intern — [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) 6/2024 -- 8/2024**
+- Feature generation of the molecule
+- Develop generative models (GAN, VAE) for 3D catalyst design, with the goal of accelerating molecule discovery through deep learning and data-driven simulation 
+
+### **Strategy Analyst — [Surfin](https://www.surfin-cn.com/)**
+- Developed overseas credit-risk strategies 
+- Reduced loan default rate via data analysis 
+- Explored data to generate meaning features for building model  
+- Collaborate with the other department for data analysis 
+
+### **Data Scientist — [Finsight]([Fantaike](http://www.fantaike.ai/) **
+- Built application score card models for auto-loan approvals  
+- Designed customer-churn warning model for the commercial bank 
+- Developed time-series prediction models for the loans application 
+- Improved risk control & decision efficiency  
+
+### **Business Data Analyst Intern — DiDi, Beijing**
+- Conducted product & market analytics for the express business 
+- Visualize the business via Tableau
+- Supported rollout of a new service and collaborate with product manager  
+ 
+---
