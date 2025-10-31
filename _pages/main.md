@@ -9,26 +9,26 @@ redirect_from:
 ---
 
 ## **Actively Seeking Opportunities**
+Feel free to reachout
 Available for **full-time roles starting May 2026** (or **part-time roles starting 2026**).  
 Open to: **Data Scientist • Quantitative Analyst • AI/ML Engineer • Research Scientist**
 
 ---
 
 ## **Bio**
-Hi there! My name is Yumeng (pronunciation; similar to “Yoomung”). I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/) in the [Department of Mathematics and Statistics](https://math.mst.edu/) at **Missouri University of Science and Technology**, with a strong background in **applied mathematics, scientific computing, and artificial intelligence**.
+Hi there! My name is Yumeng (pronunciation: similar to “Yoomung”). I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/) in the [Department of Mathematics and Statistics](https://math.mst.edu/) at **Missouri University of Science and Technology**, with a strong background in **applied mathematics, scientific computing, and artificial intelligence**.
 
-My research interests lie in the intersection of **deep learning** and **computational mathematics**.  Specifically, I am exploring the deep learning algorithm to address challenges in computational mathematics (PDEs), with a broad application in digital twins and control problem, including area: 
-- **Scientific machine learning** 
+My research interests lie in the intersection of **deep learning** and **computational mathematics**. Specifically, I am exploring the deep learning algorithm to address challenges in computational mathematics (PDEs), with a broad application in digital twins and control problem, including area: 
+
+- **Scientific machine learning (AI4PDE)** 
 - **Neural operators & foundation models for PDEs**
 - **Reduced-order modeling**
 - **Generative modeling**
 - **Numerical algorithms in solving PDEs**
 
-Beyond my research in scientific machine learning, I have a solid foundation in general machine learning and applied AI. I have hands-on experience with core ML algorithms, as well as modern techniques in computer vision, natural language processing, and reinforcement learning. Besides, my background spans on the industry applications, including credit scoring, time-series forecasting, and large-scale data analytics—demonstrating a broad and adaptable ML skill set.
-
+Beyond my research in scientific machine learning, I have a solid foundation in **general machine learning** and **applied AI**. I have hands-on experience with core ML algorithms, as well as modern techniques in **computer vision, natural language processing, and reinforcement learning**. Besides, my background spans on the **industry applications**, including credit scoring, time-series forecasting, and large-scale data analytics—demonstrating a broad and adaptable ML skill set.
  
 ## News
-- [12/2025] 🎉 Passed the Comprehensive exam!
 
 - [05/2025] Our paper "Convolutional neural network-based reduced-order modeling for
 parametric nonlocal PDEs" has been accepted by Computer Methods in Applied Mechanics and Engineering

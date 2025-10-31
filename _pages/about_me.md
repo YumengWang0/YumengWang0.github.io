@@ -84,7 +84,4 @@ I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.ed
 - Collaborative Research & Inter-disciplinary teamwork
 
 
-Thanks for visiting my webpage!
-
-
 
