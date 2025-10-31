@@ -23,30 +23,31 @@ I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.ed
 
 ## **Industry Experience**
 
-### **Summer Computational Intern — [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) 6/2024 -- 8/2024**
+#### **Computational Intern — [Lawrence Berkeley National Laboratory](https://www.lbl.gov/)** <p align="right"><i>06/2024 – 08/2024</i></p>
 - Feature generation of the molecule
 - Develop generative models (GAN, VAE) for 3D catalyst design, with the goal of accelerating molecule discovery through deep learning and data-driven simulation 
 
-### **Strategy Analyst — [Surfin](https://www.surfin-cn.com/)**
+
+#### **Strategy Analyst — [Surfin](https://www.surfin-cn.com/)**<p align="right"><i>03/2020 – 04/2021</i></p>
 - Developed overseas credit-risk strategies 
 - Reduced loan default rate via data analysis 
 - Explored data to generate meaning features for building model  
 - Collaborate with the other department for data analysis 
 
-### **Data Scientist — [Finsight]([Fantaike](http://www.fantaike.ai/) **
+#### **Data Scientist — [Fantaike](http://www.fantaike.ai/) **<p align="right"><i>03/2019 – 03/2020</i></p>
 - Built application score card models for auto-loan approvals  
 - Designed customer-churn warning model for the commercial bank 
 - Developed time-series prediction models for the loans application 
 - Improved risk control & decision efficiency  
 
-### **Business Data Analyst Intern — DiDi, Beijing**
+#### **Business Data Analyst Intern — DiDi, Beijing**<p align="right"><i>04/2018 – 08/2018</i></p>
 - Conducted product & market analytics for the express business 
 - Visualize the business via Tableau
 - Supported rollout of a new service and collaborate with product manager  
  
 ---
 
-## **Awards & Honors**
+### **Awards & Honors**
 - **2024 Eloe Graduate Research Award**  
   Recognized for outstanding research contributions in the Department of Mathematics and Statistics, Missouri S&T.
 
@@ -61,20 +62,20 @@ Missouri University of Science and Technology, 2022
 
 ## **Skills**
 
-### **Programming & Data**
+#### **Programming & Data**
 - Python, Matlab, C, SQL, Tableau 
 
-### **Statistical & Analytical**
+#### **Statistical & Analytical**
 - Quantitative Analysis & Statistic Analysis 
 - Data-Driven Research
 - Data Visualization  
 
-### **AI & Machine Learning**
+#### **AI & Machine Learning**
 - Statistical Machine Learning  
 - Deep Learning & Foundation Model (Large Language Models)  
 - Scientific Machine Learning & Neural Operators 
 
-### **Soft Skill and Collaboration**
+#### **Soft Skill and Collaboration**
 - Critical Thinking & Scientific Research 
 - Collaborative Research & Inter-disciplinary teamwork
 
