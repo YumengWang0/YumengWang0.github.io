@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research_A/
 
   - title: "About Me"
     url: /about_me/
 
-  - title: "Talks and Presentation"
-    url: /imc/
+  - title: "Research"
+    url: /research_A/
 
   - title: "Contact"
     url: /contact/
+    
+
 
 #  - title: "Talks"
 #    url: /talks/    
