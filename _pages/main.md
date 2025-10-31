@@ -57,5 +57,5 @@ parametric nonlocal PDEs" has been accepted by Computer Methods in Applied Mecha
 
 ---
 
-## **Thanks for visiting my page and have a nice day!**
+Thanks for visiting my page and have a nice day!
 

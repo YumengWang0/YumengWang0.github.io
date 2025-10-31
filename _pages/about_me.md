@@ -45,3 +45,41 @@ I am a fifth-year Ph.D. student advised by [Dr. Yanzhi Zhang](https://web.mst.ed
 - Supported rollout of a new service and collaborate with product manager  
  
 ---
+
+## **Awards & Honors**
+- **2024 Eloe Graduate Research Award**  
+  Recognized for outstanding research contributions in the Department of Mathematics and Statistics, Missouri S&T.
+
+- **Graduate Student Travel Funds**
+Graduate Student Travel Fund, CASE Professional Development Fund, and S&T Business Intelligence Travel Fund
+
+- **Gaoxiong Gan Scholarship**
+Missouri University of Science and Technology, 2022
+
+---
+
+
+## **Skills**
+
+### **Programming & Data**
+- Python, Matlab, C, SQL, Tableau 
+
+### **Statistical & Analytical**
+- Quantitative Analysis & Statistic Analysis 
+- Data-Driven Research
+- Data Visualization  
+
+### **AI & Machine Learning**
+- Statistical Machine Learning  
+- Deep Learning & Foundation Model (Large Language Models)  
+- Scientific Machine Learning & Neural Operators 
+
+### **Soft Skill and Collaboration**
+- Critical Thinking & Scientific Research 
+- Collaborative Research & Inter-disciplinary teamwork
+
+
+Thanks for visiting my webpage!
+
+
+
