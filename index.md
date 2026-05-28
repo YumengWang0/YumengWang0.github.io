@@ -10,10 +10,9 @@ permalink: /
 
       <div class="hero-left">
         <img src="/images/YumengWang.jpg" alt="Yumeng Wang" class="hero-photo">
-        <div class="hero-name-block">
-          <div class="hero-name">Yumeng Wang</div>
-        </div>
-        <div class="hero-affil">PhD Candidate<br>Missouri S&amp;T</div>
+        <div class="hero-name">Yumeng Wang</div>
+        <div class="hero-role">ML Engineer · PhD Researcher</div>
+        <div class="hero-affil">Missouri S&amp;T</div>
         <div class="social-btns">
           <a href="mailto:yw2bc@mst.edu" class="btn-outline">Email</a>
           <a href="https://www.linkedin.com/in/yumeng-wang-3990a1234/" target="_blank" class="btn-outline">LinkedIn</a>
@@ -28,6 +27,8 @@ permalink: /
         </div>
         <div class="hero-headline">Yumeng Wang</div>
         <div class="hero-subtitle">ML Engineer &amp; PhD Researcher in Computational Mathematics</div>
+
+        <div class="section-label" style="margin-top:1.5rem;">About</div>
         <p class="hero-bio">
           Machine learning engineer and fifth-year PhD candidate at Missouri University of Science and Technology,
           advised by Dr. Yanzhi Zhang. With 5+ years of experience across industry and research,
@@ -35,11 +36,11 @@ permalink: /
           My research sits at the intersection of deep learning and computational mathematics,
           with applications in scientific simulation and digital twins.
         </p>
+
         <div class="hero-actions">
           <a href="/files/CV_YumengWang.pdf" target="_blank" class="btn-primary">Download CV</a>
-          <a href="/papers/" class="btn-outline">Papers</a>
-          <a href="/projects/" class="btn-outline">Projects</a>
         </div>
+
         <div class="tag-group">
           <span class="tag">Scientific ML</span>
           <span class="tag">Neural Operators</span>
