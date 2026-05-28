@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Experience — Yumeng Wang</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;600;700&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-
-<nav>
-  <div class="nav-inner">
-    <span class="nav-logo">Yumeng Wang</span>
-    <ul class="nav-links">
-      <li><a href="index.html">Bio</a></li>
-      <li><a href="news.html">News</a></li>
-      <li><a href="papers.html">Papers</a></li>
-      <li><a href="experience.html" class="active">Experience</a></li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-  </div>
-</nav>
+---
+layout: default
+title: Experience
+permalink: /experience/
+---
 
 <section class="page-section">
   <div class="container">
@@ -63,7 +42,7 @@
         <div class="exp-date">Mar 2019 – Feb 2020</div>
       </div>
       <div class="exp-company">Beijing Fantaike Technology · FinSight Lab, Beijing China</div>
-      <div class="exp-desc">Built end-to-end ML pipeline for automated loan approval (XGBoost/LR) with full model lifecycle ownership; developed time series forecasting and customer churn prediction models.</div>
+      <div class="exp-desc">Built end-to-end ML pipeline for automated loan approval (XGBoost/LR); developed time series forecasting and customer churn prediction models.</div>
     </div>
 
     <div class="card">
@@ -87,7 +66,7 @@
       <div>
         <div class="edu-degree">PhD Candidate, Computational and Applied Mathematics</div>
         <div class="edu-school">Missouri University of Science and Technology, Rolla MO</div>
-        <div class="edu-note">Advisor: Dr. Yanzhi Zhang · Paul W. Eloe Graduate Research Award 2024</div>
+        <div class="edu-note">Advisor: Dr. Yanzhi Zhang &middot; Paul W. Eloe Graduate Research Award 2024</div>
       </div>
       <div class="edu-date">Aug 2021 – Aug 2026</div>
     </div>
@@ -110,12 +89,3 @@
 
   </div>
 </section>
-
-<footer>
-  <div class="container">
-    © 2026 Yumeng Wang · Missouri University of Science and Technology
-  </div>
-</footer>
-
-</body>
-</html>

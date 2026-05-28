@@ -1,41 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yumeng Wang — ML Engineer & PhD Researcher</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;600;700&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-
-<nav>
-  <div class="nav-inner">
-    <span class="nav-logo">Yumeng Wang</span>
-    <ul class="nav-links">
-      <li><a href="index.html" class="active">Bio</a></li>
-      <li><a href="news.html">News</a></li>
-      <li><a href="papers.html">Papers</a></li>
-      <li><a href="experience.html">Experience</a></li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-  </div>
-</nav>
+---
+layout: default
+title: Bio
+permalink: /
+---
 
 <section class="hero">
   <div class="container">
     <div class="hero-grid">
 
-      <!-- LEFT: photo + name + social -->
       <div class="hero-left">
-        <img src="images/YumengWang.jpg" alt="Yumeng Wang" class="hero-photo">
-        <div class="hero-name-line">
-          <h1>Yumeng Wang</h1><span class="cn">王雨萌</span>
+        <img src="/images/YumengWang.jpg" alt="Yumeng Wang" class="hero-photo">
+        <div class="hero-name-block">
+          <span class="hero-name">Yumeng Wang</span><span class="hero-name-cn">王雨萌</span>
         </div>
-        <div class="hero-title">PhD Candidate<br>Missouri S&T</div>
+        <div class="hero-affil">PhD Candidate<br>Missouri S&amp;T</div>
         <div class="social-btns">
           <a href="mailto:yw2bc@mst.edu" class="btn-outline">Email</a>
           <a href="https://www.linkedin.com/in/yumeng-wang-3990a1234/" target="_blank" class="btn-outline">LinkedIn</a>
@@ -43,15 +21,12 @@
         </div>
       </div>
 
-      <!-- RIGHT: bio + tags -->
       <div class="hero-right">
         <div class="available-badge">
           <span class="available-dot"></span>
           Available for full-time roles · August 2026
         </div>
-        <div class="hero-headline">
-          Yumeng Wang <span class="cn">王雨萌</span>
-        </div>
+        <div class="hero-headline">Yumeng Wang <span class="cn">王雨萌</span></div>
         <div class="hero-subtitle">ML Engineer &amp; PhD Researcher in Computational Mathematics</div>
         <p class="hero-bio">
           Machine learning engineer and fifth-year PhD candidate at Missouri University of Science and Technology,
@@ -61,8 +36,9 @@
           with applications in scientific simulation and digital twins.
         </p>
         <div class="hero-actions">
-          <a href="files/CV_YumengWang.pdf" class="btn-primary" target="_blank">↓ Download CV</a>
-          <a href="mailto:yw2bc@mst.edu" class="btn-outline">Email me</a>
+          <a href="/files/CV_YumengWang.pdf" target="_blank" class="btn-primary">↓ Download CV</a>
+          <a href="/papers/" class="btn-outline">View Papers</a>
+          <a href="/projects/" class="btn-outline">View Projects</a>
         </div>
         <div class="tag-group">
           <span class="tag">Scientific ML</span>
@@ -77,12 +53,3 @@
     </div>
   </div>
 </section>
-
-<footer>
-  <div class="container">
-    © 2026 Yumeng Wang · Missouri University of Science and Technology
-  </div>
-</footer>
-
-</body>
-</html>

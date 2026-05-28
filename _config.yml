@@ -1,0 +1,26 @@
+title: Yumeng Wang
+email: yw2bc@mst.edu
+url: "https://yumengwang0.github.io"
+baseurl: ""
+
+markdown: kramdown
+include: ["_pages"]
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - _site
+
+# Author info (easy to update here)
+author:
+  name: Yumeng Wang
+  name_cn: 王雨萌
+  title: PhD Candidate · Missouri S&T
+  email: yw2bc@mst.edu
+  linkedin: https://www.linkedin.com/in/yumeng-wang-3990a1234/
+  github: https://github.com/YumengWang0
+  cv: /files/CV_YumengWang.pdf
+  photo: /images/YumengWang.jpg
+  available: "Available for full-time roles · August 2026"

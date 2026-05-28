@@ -1,34 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>News — Yumeng Wang</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;600;700&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-
-<nav>
-  <div class="nav-inner">
-    <span class="nav-logo">Yumeng Wang</span>
-    <ul class="nav-links">
-      <li><a href="index.html">Bio</a></li>
-      <li><a href="news.html" class="active">News</a></li>
-      <li><a href="papers.html">Papers</a></li>
-      <li><a href="experience.html">Experience</a></li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-  </div>
-</nav>
+---
+layout: default
+title: News
+permalink: /news/
+---
 
 <section class="page-section">
   <div class="container">
     <div class="section-label">Latest</div>
     <h2>News</h2>
+
+<!-- ─────────────────────────────────────────────
+     HOW TO ADD A NEWS ITEM:
+     Copy one <div class="news-item"> block,
+     update the date and text, paste at the top.
+     ───────────────────────────────────────────── -->
+
     <div class="news-list">
 
       <div class="news-item">
@@ -63,22 +49,22 @@
 
       <div class="news-item">
         <span class="news-date">03/2024</span>
-        <span class="news-text">Second prize at the Pi Day Celebration for presentation on reduced-order modeling with CNNs, Missouri S&T.</span>
+        <span class="news-text">Second prize at the Pi Day Celebration for presentation on reduced-order modeling with CNNs, Missouri S&amp;T.</span>
       </div>
 
       <div class="news-item">
         <span class="news-date">06/2023</span>
-        <span class="news-text">Selected for the <a href="https://www.siam.org/programs-initiatives/programs/graduate-student-mathematical-modeling-camp-and-mathematical-problems-in-industry-workshop/" target="_blank">Graduate Student Mathematical Modeling Camp and Mathematical Problems in Industry Workshop</a>.</span>
+        <span class="news-text">Selected for the Graduate Student Mathematical Modeling Camp and Mathematical Problems in Industry Workshop.</span>
       </div>
 
       <div class="news-item">
         <span class="news-date">04/2023</span>
-        <span class="news-text">Presented "Data driven modeling with generative adversarial network" at the Graduate Seminar, Department of Mathematics and Statistics, Missouri S&T.</span>
+        <span class="news-text">Presented "Data driven modeling with generative adversarial network" at the Graduate Seminar, Missouri S&amp;T.</span>
       </div>
 
       <div class="news-item">
         <span class="news-date">03/2023</span>
-        <span class="news-text">Second prize at the Pi Day Celebration poster presentation, Missouri S&T.</span>
+        <span class="news-text">Second prize at the Pi Day Celebration poster presentation, Missouri S&amp;T.</span>
       </div>
 
       <div class="news-item">
@@ -94,12 +80,3 @@
     </div>
   </div>
 </section>
-
-<footer>
-  <div class="container">
-    © 2026 Yumeng Wang · Missouri University of Science and Technology
-  </div>
-</footer>
-
-</body>
-</html>
