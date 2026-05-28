@@ -51,6 +51,11 @@ nav {
   font-size: 0.88rem !important; font-weight:600 !important;
   color: #f0ebe0 !important; letter-spacing:0.01em;
 }
+.nav-logo-cn {
+  font-family: 'Outfit', sans-serif !important;
+  font-size: 0.72rem !important; font-weight:400 !important;
+  color: #5a4e42 !important; margin-left:0.3rem;
+}
 .nav-links {
   display:flex !important; gap:1.6rem; list-style:none !important;
 }
@@ -83,7 +88,8 @@ h2 {
   display:inline-flex; align-items:center; gap:7px;
   background:var(--green-dim); border:1px solid var(--green-bdr);
   color:var(--green); font-size:0.75rem; font-weight:500;
-  padding:4px 12px; border-radius:20px; margin-bottom:1.25rem;
+  padding:4px 12px; border-radius:20px;
+  margin-bottom:0.75rem; margin-top:0.25rem;
 }
 .available-dot {
   width:6px; height:6px; border-radius:50%; background:var(--green);
@@ -152,8 +158,8 @@ h2 {
 .hero-affil { font-size:0.75rem; color:var(--text-2); line-height:1.4; }
 
 .social-btns {
-  display:flex; flex-direction:row;
-  justify-content:center; gap:5px; flex-wrap:nowrap;
+  display:flex; flex-direction:column;
+  align-items:stretch; gap:6px; width:100%;
 }
 
 .hero-headline {
