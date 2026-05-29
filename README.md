@@ -3,27 +3,6 @@
 Personal academic and professional website hosted on GitHub Pages.
 Live at: [yumengwang0.github.io](https://yumengwang0.github.io)
 
-# Hi, I'm Yumeng Wang (王雨萌) 👋
-
-**ML Engineer · Data Scientist · PhD Researcher**
-
-Fifth-year PhD candidate at Missouri University of Science and Technology, with 5+ years of industry experience building end-to-end ML systems.
-
-### 🔬 Research Interests
-- Scientific machine learning & neural operators
-- Surrogate modeling & reduced order methods
-- LLM agents & generative models
-- ML for financial systems
-
-### 🌐 Links
-- **Personal Page**: [yumengwang0.github.io](https://yumengwang0.github.io)
-- **LinkedIn**: [Yumeng Wang](https://www.linkedin.com/in/yumeng-wang-3990a1234/)
-- **Email**: yw2bc@mst.edu
-
-### 🛠 Skills
-`PyTorch` `TensorFlow` `Python` `SQL` `LangChain` `RAG` `HuggingFace` `Docker` `AWS` `HPC`
-
-
 ---
 
 ## File Structure
