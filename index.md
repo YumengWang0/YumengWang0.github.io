@@ -11,7 +11,7 @@ permalink: /
       <div class="hero-left">
         <img src="/images/YumengWang.jpg" alt="Yumeng Wang" class="hero-photo">
         <div class="hero-name">Yumeng Wang</div>
-        <div class="hero-role">ML Engineer · PhD Researcher</div>
+        <div class="hero-role">ML Engineer · Data Scientist<br>PhD Researcher</div>
         <div class="hero-affil">Missouri S&amp;T</div>
         <div class="social-btns">
           <a href="mailto:yw2bc@mst.edu" class="btn-outline">Email</a>
@@ -21,6 +21,10 @@ permalink: /
       </div>
 
       <div class="hero-right">
+        <div class="available-badge">
+          <span class="available-dot"></span>
+          Available for full-time roles · August 2026
+        </div>
         <div class="hero-subtitle">ML Engineer &amp; PhD Researcher in Computational Mathematics</div>
         <p class="hero-bio">
           Machine learning engineer and fifth-year PhD candidate at Missouri University of Science and Technology,
@@ -29,10 +33,6 @@ permalink: /
           My research sits at the intersection of deep learning and computational mathematics,
           with applications in scientific simulation and digital twins.
         </p>
-        <div class="available-badge">
-          <span class="available-dot"></span>
-          Available for full-time roles · August 2026
-        </div>
         <div class="hero-actions">
           <a href="/files/CV_YumengWang.pdf" target="_blank" class="btn-primary">↓ Download CV</a>
         </div>
