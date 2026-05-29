@@ -29,6 +29,12 @@ permalink: /
       with applications in digital twins and engineering design. Currently exploring LLM agent
       architectures for real-world finance applications.
     </p>
+    <div class="available-badge">
+      <span class="available-dot"></span>
+      Available for full-time roles · August 2026
+    </div>
+    <div style="margin-bottom:1.5rem;">
+      <a href="/files/CV_YumengWang.pdf" target="_blank" class="btn-primary">↓ Download CV</a>
     </div>
     <div class="ri-title">Research Interests</div>
     <ul class="ri-list">
