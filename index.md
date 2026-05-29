@@ -15,11 +15,6 @@ permalink: /
     <a href="https://github.com/YumengWang0" target="_blank" title="GitHub"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg></a>
     <a href="https://scholar.google.com" target="_blank" title="Google Scholar"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 10a8 8 0 0 1 7.162 3.44L24 9.5z"/></svg></a>
   </div>
-  <div class="available-badge">
-    <span class="available-dot"></span>
-    Available · August 2026
-  </div>
-  <a href="/files/CV_YumengWang.pdf" target="_blank" class="btn-primary">↓ Download CV</a>
 </aside>
 
 <main class="scroll-content">
@@ -34,12 +29,6 @@ permalink: /
       with applications in digital twins and engineering design. Currently exploring LLM agent
       architectures for real-world finance applications.
     </p>
-    <div class="available-badge">
-      <span class="available-dot"></span>
-      Available for full-time roles · August 2026
-    </div>
-    <div style="margin-bottom:1.5rem;">
-      <a href="/files/CV_YumengWang.pdf" target="_blank" class="btn-primary">↓ Download CV</a>
     </div>
     <div class="ri-title">Research Interests</div>
     <ul class="ri-list">
@@ -53,49 +42,72 @@ permalink: /
   <section id="experience" class="content-section">
     <h2>Experience</h2>
 
-    <div class="card">
-      <div class="exp-header">
-        <div class="exp-role">ML Research Intern</div>
-        <div class="exp-date">Jun – Aug 2024</div>
-      </div>
-      <div class="exp-company">Lawrence Berkeley National Laboratory (LBNL), Berkeley CA</div>
-      <div class="exp-desc">Built generative model architectures (VAE, GAN, Diffusion Model) in PyTorch for molecular catalyst generation, automating structural exploration beyond manual design constraints.</div>
-    </div>
+    <div class="timeline">
 
-    <div class="card">
-      <div class="exp-header">
-        <div class="exp-role">Graduate Research Assistant</div>
-        <div class="exp-date">Jun 2022 – Present</div>
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-role">ML Research Intern | Lawrence Berkeley National Laboratory</div>
+        <div class="timeline-company">Berkeley, CA</div>
+        <div class="timeline-date">Jun – Aug 2024</div>
+        <div class="timeline-desc">
+          <ul>
+            <li>Built generative model architectures (VAE, GAN, Diffusion Model) in PyTorch for molecular catalyst generation, automating structural exploration beyond manual design constraints.</li>
+          </ul>
+        </div>
       </div>
-      <div class="exp-company">Missouri University of Science and Technology, Rolla MO</div>
-      <div class="exp-desc">Research on scientific machine learning: surrogate modeling, attention-based neural operators, vision transformer foundation models, and LLM-powered applications. Two papers published in peer-reviewed journals.</div>
-    </div>
 
-    <div class="card">
-      <div class="exp-header">
-        <div class="exp-role">Data Scientist</div>
-        <div class="exp-date">Mar 2020 – Apr 2021</div>
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-role">Graduate Research Assistant | Missouri S&amp;T</div>
+        <div class="timeline-company">Rolla, MO</div>
+        <div class="timeline-date">Jun 2022 – Present</div>
+        <div class="timeline-desc">
+          <ul>
+            <li>Research on surrogate modeling, attention-based neural operators, and vision transformer foundation models for scientific computing.</li>
+            <li>Two papers published in peer-reviewed journals.</li>
+          </ul>
+        </div>
       </div>
-      <div class="exp-company">Beijing One Zero Dance Technology, Beijing China</div>
-      <div class="exp-desc">Drove data-informed credit strategy across Mexico and Vietnam markets; built Python automation tool eliminating manual reporting for a team of 10+ analysts.</div>
-    </div>
 
-    <div class="card">
-      <div class="exp-header">
-        <div class="exp-role">Machine Learning Engineer</div>
-        <div class="exp-date">Mar 2019 – Feb 2020</div>
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-role">Data Scientist | Beijing One Zero Dance Technology</div>
+        <div class="timeline-company">Beijing, China</div>
+        <div class="timeline-date">Mar 2020 – Apr 2021</div>
+        <div class="timeline-desc">
+          <ul>
+            <li>Drove data-informed credit strategy across Mexico and Vietnam markets via daily SQL analysis.</li>
+            <li>Built Python automation tool eliminating manual reporting for a team of 10+ analysts.</li>
+          </ul>
+        </div>
       </div>
-      <div class="exp-company">Beijing Fantaike Technology · FinSight Lab, Beijing China</div>
-      <div class="exp-desc">Built end-to-end ML pipeline for automated loan approval (XGBoost/LR); developed time series forecasting and customer churn prediction models.</div>
-    </div>
 
-    <div class="card">
-      <div class="exp-header">
-        <div class="exp-role">Data Science Intern</div>
-        <div class="exp-date">Apr – Sep 2018</div>
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-role">Machine Learning Engineer | Beijing Fantaike Technology · FinSight Lab</div>
+        <div class="timeline-company">Beijing, China</div>
+        <div class="timeline-date">Mar 2019 – Feb 2020</div>
+        <div class="timeline-desc">
+          <ul>
+            <li>Built end-to-end ML pipeline for automated loan approval (XGBoost/LR) with full model lifecycle ownership.</li>
+            <li>Developed time series forecasting model and customer churn prediction model for a commercial bank.</li>
+          </ul>
+        </div>
       </div>
-      <div class="exp-company">DiDi Chuxing, Beijing China</div>
-      <div class="exp-desc">Wrote 100+ SQL queries on Hadoop to monitor core funnel metrics; supported product decisions during expansion from 2 to 10+ cities.</div>
+
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-role">Data Science Intern | DiDi Chuxing</div>
+        <div class="timeline-company">Beijing, China</div>
+        <div class="timeline-date">Apr – Sep 2018</div>
+        <div class="timeline-desc">
+          <ul>
+            <li>Wrote 100+ SQL queries on Hadoop to monitor core funnel metrics during expansion from 2 to 10+ cities.</li>
+            <li>Built Tableau dashboards as the primary reporting tool for an entire business line.</li>
+          </ul>
+        </div>
+      </div>
+
     </div>
 
     <h2 style="margin-top:2.5rem;">Education</h2>
