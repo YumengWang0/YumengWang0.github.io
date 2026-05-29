@@ -25,7 +25,6 @@ permalink: /
 <main class="scroll-content">
 
   <section id="bio" class="content-section">
-    <div class="section-label">About</div>
     <h2>Short Bio</h2>
     <p class="bio-text">
       Fifth-year PhD candidate at Missouri S&amp;T and ML engineer with 5+ years of industry experience.
@@ -35,6 +34,13 @@ permalink: /
       with applications in digital twins and engineering design. Currently exploring LLM agent
       architectures for real-world finance applications.
     </p>
+    <div class="available-badge">
+      <span class="available-dot"></span>
+      Available for full-time roles · August 2026
+    </div>
+    <div style="margin-bottom:1.5rem;">
+      <a href="/files/CV_YumengWang.pdf" target="_blank" class="btn-primary">↓ Download CV</a>
+    </div>
     <div class="ri-title">Research Interests</div>
     <ul class="ri-list">
       <li>Scientific machine learning &amp; neural operators</li>
@@ -45,7 +51,6 @@ permalink: /
   </section>
 
   <section id="experience" class="content-section">
-    <div class="section-label">Background</div>
     <h2>Experience</h2>
 
     <div class="card">
@@ -123,7 +128,6 @@ permalink: /
   </section>
 
   <section id="projects" class="content-section">
-    <div class="section-label">Personal work</div>
     <h2>Projects</h2>
     <div class="proj-grid">
       <div class="card">
@@ -156,7 +160,6 @@ permalink: /
   </section>
 
   <section id="papers" class="content-section">
-    <div class="section-label">Research</div>
     <h2>Publications</h2>
     <div class="card pub-card">
       <div class="pub-img"><img src="/images/paper1-fig.png" alt="Paper 1" class="proj-img-fill"></div>
@@ -181,7 +184,6 @@ permalink: /
   </section>
 
   <section id="contact" class="content-section">
-    <div class="section-label">Get in touch</div>
     <h2>Contact</h2>
     <p class="contact-intro">Open to full-time ML Engineer, Data Scientist, and Research Scientist roles starting August 2026. Feel free to reach out.</p>
     <div class="contact-btns">
