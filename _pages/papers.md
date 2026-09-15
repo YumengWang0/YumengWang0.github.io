@@ -15,6 +15,27 @@ permalink: /papers/
      Image (architecture diagram) goes in /images/.
      ───────────────────────────────────────────── -->
 
+
+    <div class="card pub-card">
+      <div class="pub-img">
+        <img src="/images/paper4-fig.png" alt="SCOP-OL figure" class="proj-img-fill">
+      </div>
+      <div class="card-body">
+        <div class="tag-row">
+          <span class="tag">Neural Operator</span>
+          <span class="tag">Cross-Attention</span>
+          <span class="tag">Fourier Layers</span>
+          <span class="tag">2026</span>
+        </div>
+        <div class="pub-title">Discretization-Independent Operator Learning</div>
+        <div class="pub-venue">Separating Conditioning and Propagation in Operator Learning (SCOP-OL)</div>
+        <div class="pub-authors">An encoder–processor–decoder framework that uses cross-attention for geometry and discretization conditioning and Fourier layers for operator propagation.</div>
+        <div class="card-links">
+          <a href="/files/Paper4.pdf" target="_blank" class="card-link">PDF</a>
+        </div>
+      </div>
+    </div>
+
     <div class="card pub-card">
       <div class="pub-img">
         <img src="/images/paper1-fig.png" alt="Paper 1 figure" class="proj-img-fill">
@@ -52,6 +73,10 @@ permalink: /papers/
         </div>
       </div>
     </div>
+
+
+
+
 
   </div>
 </section>
