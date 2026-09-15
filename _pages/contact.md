@@ -9,7 +9,7 @@ permalink: /contact/
     <div class="section-label">Get in touch</div>
     <h2>Contact</h2>
     <p class="contact-intro">
-      Open to full-time ML Engineer, Data Scientist, and Research Scientist roles starting August 2026.
+      Open to full-time ML Engineer, Data Scientist, Quantative analyst and Research Scientist roles starting December 2026.
       Feel free to reach out — I am always happy to connect.
     </p>
     <div class="contact-btns">

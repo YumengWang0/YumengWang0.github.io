@@ -14,8 +14,8 @@ permalink: /experience/
         <div class="exp-role">ML Research Intern</div>
         <div class="exp-date">Jun – Aug 2024</div>
       </div>
-      <div class="exp-company">Lawrence Berkeley National Laboratory (LBNL), Berkeley CA</div>
-      <div class="exp-desc">Built generative model architectures (VAE, GAN, Diffusion Model) in PyTorch for molecular catalyst generation, automating structural exploration beyond manual design constraints.</div>
+      <div class="exp-company">Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA</div>
+      <div class="exp-desc">Designed and implemented <strong>generative AI models (VAE, GAN, and diffusion)</strong> for molecular catalyst generation, enabling automated exploration of candidate molecular structures.</div>
     </div>
 
     <div class="card">
@@ -23,38 +23,57 @@ permalink: /experience/
         <div class="exp-role">Graduate Research Assistant</div>
         <div class="exp-date">Jun 2022 – Present</div>
       </div>
-      <div class="exp-company">Missouri University of Science and Technology, Rolla MO</div>
-      <div class="exp-desc">Research on scientific machine learning: surrogate modeling, attention-based neural operators, vision transformer foundation models, and LLM-powered applications. Two papers published in peer-reviewed journals.</div>
+      <div class="exp-company">Missouri University of Science and Technology, Rolla, MO</div>
+      <div class="exp-desc">
+        1. Develop and evaluate <strong>deep learning models</strong> for scientific computing, surrogate modeling for complex physical systems.<br>
+        2. Implement <strong>neural operators, attention mechanisms, vision foundation models, and LLMs</strong> using PyTorch and modern deep learning frameworks.<br>
+        3. Build scalable <strong>data and training pipelines</strong> for large-scale experiments across different datasets, resolutions, and model architectures.<br>
+        4. Develop <strong>LLM-powered applications</strong> using fine-tuning, RAG, and prompt-based methods for research and automation.<br>
+      </div>
     </div>
+
 
     <div class="card">
       <div class="exp-header">
         <div class="exp-role">Data Scientist</div>
         <div class="exp-date">Mar 2020 – Apr 2021</div>
       </div>
-      <div class="exp-company">Beijing One Zero Dance Technology, Beijing China</div>
-      <div class="exp-desc">Drove data-informed credit strategy across Mexico and Vietnam markets; built Python automation tool eliminating manual reporting for a team of 10+ analysts.</div>
+      <div class="exp-company">Beijing One Zero Dance Technology, Beijing, China</div>
+      <div class="exp-desc">
+        1. Analyzed credit and business data to support data-driven credit strategies across <strong>Mexico</strong> and <strong>Vietnam</strong> markets.<br>
+        2. Built a <strong>Python automation tool</strong> to streamline reporting workflows for a team of 10+ analysts.
+      </div>
     </div>
 
-    <div class="card">
+
+      <div class="card">
       <div class="exp-header">
         <div class="exp-role">Machine Learning Engineer</div>
         <div class="exp-date">Mar 2019 – Feb 2020</div>
       </div>
-      <div class="exp-company">Beijing Fantaike Technology · FinSight Lab, Beijing China</div>
-      <div class="exp-desc">Built end-to-end ML pipeline for automated loan approval (XGBoost/LR); developed time series forecasting and customer churn prediction models.</div>
+      <div class="exp-company">Beijing Fantaike Technology · FinSight Lab, Beijing, China</div>
+      <div class="exp-desc">
+        1. Built an end-to-end ML pipeline for automated loan approval using <strong>XGBoost</strong> and <strong>Logistic Regression</strong>.<br>
+        2. Developed <strong>time series forecasting</strong> and <strong>customer churn prediction</strong> models for a commercial bank.
+      </div>
     </div>
+
 
     <div class="card">
       <div class="exp-header">
         <div class="exp-role">Data Science Intern</div>
         <div class="exp-date">Apr – Sep 2018</div>
       </div>
-      <div class="exp-company">DiDi Chuxing, Beijing China</div>
-      <div class="exp-desc">Wrote 100+ SQL queries on Hadoop to monitor core funnel metrics; supported product decisions during expansion from 2 to 10+ cities. Built Tableau dashboards as the primary reporting tool for an entire business line.</div>
+      <div class="exp-company">DiDi Chuxing, Beijing, China</div>
+      <div class="exp-desc">
+        1. Analyzed large-scale business data using **SQL/Hadoop** to monitor user and transaction funnels.<br>
+        2. Developed **Tableau dashboards** for automated business performance reporting.<br>
+        3. Worked with data from multiple cities during a rapid business expansion.
+      </div>
     </div>
 
-  </div>
+
+</div>
 </section>
 
 <section class="page-section">
