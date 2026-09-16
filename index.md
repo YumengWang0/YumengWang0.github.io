@@ -426,8 +426,6 @@ permalink: /
     <h2>Publications</h2>
     <div class="card pub-card">
 
-
-
     <div class="card pub-card">
       <div class="pub-img">
         <img src="/images/paper4-fig.png" alt="SCOP-OL figure" class="proj-img-fill">
@@ -439,14 +437,24 @@ permalink: /
           <span class="tag">Fourier Layers</span>
           <span class="tag">2026</span>
         </div>
-        <div class="pub-title">Discretization-Independent Operator Learning</div>
-        <div class="pub-venue">Separating Conditioning and Propagation in Operator Learning (SCOP-OL)</div>
-        <div class="pub-authors">An encoder–processor–decoder framework that uses cross-attention for geometry and discretization conditioning and Fourier layers for operator propagation.</div>
-        <div class="card-links">
-          <a href="/files/Paper4.pdf" target="_blank" class="card-link">PDF</a>
-        </div>
+        <div class="pub-title">SCOP-OL</div>
+        <div class="pub-venue">Discretization-independent operator learning</div>
+
+    ```
+    <div class="pub-authors">
+      An encoder–processor–decoder framework for PDE operator learning that separates geometry and discretization conditioning from operator propagation.
+    </div>
+
+    <div class="card-links">
+      <a href="/files/Paper4.pdf" target="_blank" class="card-link">PDF</a>
+      <a href="https://github.com/YumengWang0" target="_blank" class="card-link">Code</a>
+    </div>
+    ```
+
       </div>
     </div>
+
+
 
     <div class="card pub-card">
       <div class="pub-img">
